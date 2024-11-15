@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/order-service
+module github.com/Yashupadhyaya/order-service
 
 go 1.19
 

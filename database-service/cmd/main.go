@@ -6,10 +6,10 @@ import (
 	"net"
 	"os"
 
-	"github.com/Garvit-Jethwani/database-service/config"
-	"github.com/Garvit-Jethwani/database-service/database"
-	"github.com/Garvit-Jethwani/database-service/grpcserver"
-	"github.com/Garvit-Jethwani/database-service/proto"
+	"github.com/Yashupadhyaya/database-service/config"
+	"github.com/Yashupadhyaya/database-service/database"
+	"github.com/Yashupadhyaya/database-service/grpcserver"
+	"github.com/Yashupadhyaya/database-service/proto"
 	"google.golang.org/grpc"
 )
 

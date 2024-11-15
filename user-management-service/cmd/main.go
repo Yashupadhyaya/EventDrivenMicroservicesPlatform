@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/Garvit-Jethwani/user-management-service/config"
-	"github.com/Garvit-Jethwani/user-management-service/httpserver"
+	"github.com/Yashupadhyaya/user-management-service/config"
+	"github.com/Yashupadhyaya/user-management-service/httpserver"
 )
 
 func main() {

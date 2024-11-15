@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/Garvit-Jethwani/inventory-service/config"
-	"github.com/Garvit-Jethwani/inventory-service/events"
-	"github.com/Garvit-Jethwani/inventory-service/httpserver"
+	"github.com/Yashupadhyaya/inventory-service/config"
+	"github.com/Yashupadhyaya/inventory-service/events"
+	"github.com/Yashupadhyaya/inventory-service/httpserver"
 )
 
 func main() {

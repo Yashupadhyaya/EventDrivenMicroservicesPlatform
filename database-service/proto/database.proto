@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 package database;
-option go_package = "github.com/Garvit-Jethwani/database-service/proto;proto";
+option go_package = "github.com/Yashupadhyaya/database-service/proto;proto";
 
 service DatabaseService {
   rpc Query(QueryRequest) returns (QueryResponse);

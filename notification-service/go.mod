@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/notification-service
+module github.com/Yashupadhyaya/notification-service
 
 go 1.21.3
 

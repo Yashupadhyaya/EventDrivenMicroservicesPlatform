@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/inventory-service
+module github.com/Yashupadhyaya/inventory-service
 
 go 1.19
 

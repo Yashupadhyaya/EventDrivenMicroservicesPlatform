@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/user-management-service
+module github.com/Yashupadhyaya/user-management-service
 
 go 1.19
 

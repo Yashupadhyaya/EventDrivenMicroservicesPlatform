@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/Garvit-Jethwani/inventory-service/models"
+	"github.com/Yashupadhyaya/inventory-service/models"
 	_ "github.com/lib/pq"
 )
 

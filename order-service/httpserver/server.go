@@ -11,10 +11,10 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/Garvit-Jethwani/order-service/config"
-	"github.com/Garvit-Jethwani/order-service/database"
-	"github.com/Garvit-Jethwani/order-service/events"
-	"github.com/Garvit-Jethwani/order-service/models"
+	"github.com/Yashupadhyaya/order-service/config"
+	"github.com/Yashupadhyaya/order-service/database"
+	"github.com/Yashupadhyaya/order-service/events"
+	"github.com/Yashupadhyaya/order-service/models"
 	"github.com/gorilla/mux"
 )
 

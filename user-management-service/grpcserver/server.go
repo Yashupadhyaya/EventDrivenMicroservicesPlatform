@@ -3,8 +3,8 @@ package grpcserver
 import (
 	"context"
 
-	"github.com/Garvit-Jethwani/user-management-service/database"
-	"github.com/Garvit-Jethwani/user-management-service/models"
+	"github.com/Yashupadhyaya/user-management-service/database"
+	"github.com/Yashupadhyaya/user-management-service/models"
 )
 
 type UserServiceServer struct {

@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/Garvit-Jethwani/notification-service/config"
-	"github.com/Garvit-Jethwani/notification-service/events"
-	"github.com/Garvit-Jethwani/notification-service/notification"
+	"github.com/Yashupadhyaya/notification-service/config"
+	"github.com/Yashupadhyaya/notification-service/events"
+	"github.com/Yashupadhyaya/notification-service/notification"
 )
 
 func main() {

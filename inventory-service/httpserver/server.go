@@ -9,8 +9,8 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/Garvit-Jethwani/inventory-service/config"
-	"github.com/Garvit-Jethwani/inventory-service/database"
+	"github.com/Yashupadhyaya/inventory-service/config"
+	"github.com/Yashupadhyaya/inventory-service/database"
 	"github.com/gorilla/mux"
 )
 

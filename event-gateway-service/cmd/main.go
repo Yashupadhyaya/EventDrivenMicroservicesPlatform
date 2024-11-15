@@ -3,11 +3,11 @@ package main
 import (
 	"log"
 
-	"github.com/Garvit-Jethwani/event-gateway-service/config"
-	"github.com/Garvit-Jethwani/event-gateway-service/events"
-	"github.com/Garvit-Jethwani/event-gateway-service/httpserver"
-	"github.com/Garvit-Jethwani/event-gateway-service/store/kafka"
-	"github.com/Garvit-Jethwani/event-gateway-service/store/nats"
+	"github.com/Yashupadhyaya/event-gateway-service/config"
+	"github.com/Yashupadhyaya/event-gateway-service/events"
+	"github.com/Yashupadhyaya/event-gateway-service/httpserver"
+	"github.com/Yashupadhyaya/event-gateway-service/store/kafka"
+	"github.com/Yashupadhyaya/event-gateway-service/store/nats"
 )
 
 func main() {

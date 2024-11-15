@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Garvit-Jethwani/order-service/config"
-	"github.com/Garvit-Jethwani/order-service/database"
-	"github.com/Garvit-Jethwani/order-service/httpserver"
+	"github.com/Yashupadhyaya/order-service/config"
+	"github.com/Yashupadhyaya/order-service/database"
+	"github.com/Yashupadhyaya/order-service/httpserver"
 )
 
 func main() {

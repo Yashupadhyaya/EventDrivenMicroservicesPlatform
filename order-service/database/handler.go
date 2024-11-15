@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/Garvit-Jethwani/order-service/models"
-	proto "github.com/Garvit-Jethwani/order-service/proto"
+	"github.com/Yashupadhyaya/order-service/models"
+	proto "github.com/Yashupadhyaya/order-service/proto"
 	"google.golang.org/grpc"
 )
 

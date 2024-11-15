@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Garvit-Jethwani/event-gateway-service/models"
+	"github.com/Yashupadhyaya/event-gateway-service/models"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 )
 

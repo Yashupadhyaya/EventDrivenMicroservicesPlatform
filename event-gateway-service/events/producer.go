@@ -1,6 +1,6 @@
 package events
 
-import "github.com/Garvit-Jethwani/event-gateway-service/models"
+import "github.com/Yashupadhyaya/event-gateway-service/models"
 
 type EventStore interface {
 	Publish(event models.Event) (string, error)

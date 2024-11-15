@@ -5,8 +5,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/Garvit-Jethwani/database-service/database"
-	"github.com/Garvit-Jethwani/database-service/proto"
+	"github.com/Yashupadhyaya/database-service/database"
+	"github.com/Yashupadhyaya/database-service/proto"
 )
 
 type Server struct {

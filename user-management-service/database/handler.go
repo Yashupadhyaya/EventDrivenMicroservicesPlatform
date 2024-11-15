@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Garvit-Jethwani/user-management-service/models"
+	"github.com/Yashupadhyaya/user-management-service/models"
 )
 
 var users = []models.User{

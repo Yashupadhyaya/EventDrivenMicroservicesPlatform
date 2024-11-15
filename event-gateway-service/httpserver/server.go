@@ -3,7 +3,7 @@ package httpserver
 import (
 	"net/http"
 
-	"github.com/Garvit-Jethwani/event-gateway-service/events"
+	"github.com/Yashupadhyaya/event-gateway-service/events"
 	"github.com/gorilla/mux"
 )
 

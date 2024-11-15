@@ -8,9 +8,9 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/Garvit-Jethwani/user-management-service/config"
-	"github.com/Garvit-Jethwani/user-management-service/database"
-	"github.com/Garvit-Jethwani/user-management-service/models"
+	"github.com/Yashupadhyaya/user-management-service/config"
+	"github.com/Yashupadhyaya/user-management-service/database"
+	"github.com/Yashupadhyaya/user-management-service/models"
 	"github.com/gorilla/mux"
 )
 

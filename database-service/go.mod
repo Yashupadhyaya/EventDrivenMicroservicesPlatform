@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/database-service
+module github.com/Yashupadhyaya/database-service
 
 go 1.21
 

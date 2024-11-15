@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Garvit-Jethwani/event-gateway-service/models"
+	"github.com/Yashupadhyaya/event-gateway-service/models"
 	"github.com/nats-io/nats.go"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Garvit-Jethwani/event-gateway-service
+module github.com/Yashupadhyaya/event-gateway-service
 
 go 1.21
 

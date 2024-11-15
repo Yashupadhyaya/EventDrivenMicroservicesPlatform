@@ -5,14 +5,14 @@ import (
 	"encoding/json"
 	"log"
 
-	"github.com/Garvit-Jethwani/inventory-service/config"
-	"github.com/Garvit-Jethwani/inventory-service/database"
+	"github.com/Yashupadhyaya/inventory-service/config"
+	"github.com/Yashupadhyaya/inventory-service/database"
 	"github.com/segmentio/kafka-go"
 )
 
 const (
 	topic   = "order_events"
-	groupID = "github.com/Garvit-Jethwani/inventory-service"
+	groupID = "github.com/Yashupadhyaya/inventory-service"
 )
 
 func StartConsumer(cfg *config.Config) {

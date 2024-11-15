@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Garvit-Jethwani/notification-service/events"
-	"github.com/Garvit-Jethwani/notification-service/models"
+	"github.com/Yashupadhyaya/notification-service/events"
+	"github.com/Yashupadhyaya/notification-service/models"
 )
 
 type NotificationService struct {

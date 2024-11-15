@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/Garvit-Jethwani/notification-service/models"
+	"github.com/Yashupadhyaya/notification-service/models"
 	"github.com/confluentinc/confluent-kafka-go/kafka"
 )
 
