@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+package database;
+option go_package = "github.com/Garvit-Jethwani/database-service/proto;proto";
+
+service DatabaseService {
+  rpc Query(QueryRequest) returns (QueryResponse);
+  rpc Command(CommandRequest) returns (CommandResponse);
+}
+
+message QueryRequest {
+  string sql = 1;
+  repeated string params = 2;
+}
+
+message QueryResponse {
+  repeated Row rows = 1;
+}
+
+message Row {
+  map<string, string> columns = 1;
+}
+
+message CommandRequest {
+  string sql = 1;
+  repeated string params = 2;
+}
+
+message CommandResponse {
+  int64 rows_affected = 1;
+}

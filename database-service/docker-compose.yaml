@@ -1,0 +1,13 @@
+
+version: '3.8'
+
+services:
+  database-service:
+    build: .
+    ports:
+      - "8084:8084"
+    environment:
+      - GRPC_PORT=8084
+      - POSTGRES_URL=your_postgres_url
+      - MYSQL_URL=your_mysql_url
+      - SHUTDOWN_TIMEOUT=10s

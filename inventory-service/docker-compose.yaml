@@ -1,0 +1,13 @@
+
+version: '3.8'
+
+services:
+  inventory-service:
+    build: .
+    ports:
+      - "8083:8083"
+    environment:
+      - HTTP_PORT=8083
+      - DATABASE_URL=your_database_url
+      - EVENT_STORE_URL=your_event_store_url
+      - SHUTDOWN_TIMEOUT=10s
